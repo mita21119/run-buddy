@@ -198,6 +198,34 @@ header h1 {
       }
 
       /* HERO STYLES END*/
+
+      /*What we Do Start*/
+
+      .intro {
+
+        text-align: center;
+
+      }
+
+      .intro h2 {
+
+        /* add this alongside your other declarations */
+
+        display: inline-block;
+
+        font-size: 55px;
+
+        color: #024e76;
+
+        margin-bottom: 35px;
+
+        padding: 0 100px 20px 100px;
+
+        border-bottom: 3px solid;
+
+        border-color: #fce138;
+
+      }
     
       
 
