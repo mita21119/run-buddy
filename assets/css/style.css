@@ -226,7 +226,22 @@ header h1 {
         border-color: #fce138;
 
       }
-    
+      
+      .intro p {
+
+        /* add this alongside your other declarations */
+
+        margin: 0 auto;
+
+        line-height: 1.7;
+
+        color: #39a6b2;
+
+        width: 80%;
+
+        font-size: 20px;
+
+      }
       
 
       
